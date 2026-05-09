@@ -26,3 +26,13 @@ To evaluate the performance of the model accurately, the dataset is split into t
 Once the classifier is created, the model is trained using the training dataset through the fit() method. After training, the model is used to make predictions on the testing dataset using the predict() function. The predicted results are then compared with the actual output values to calculate the accuracy of the model. Additional evaluation techniques such as confusion matrix and classification report can also be used to analyze the model’s performance in detail.
 
 Finally, the Decision Tree structure is visualized using Matplotlib and Scikit-learn’s plot_tree() function. The visualization helps in understanding how the model makes decisions based on different feature values. This project demonstrates the complete workflow of building, training, evaluating, and visualizing a machine learning model using the Decision Tree algorithm in Python.
+
+
+
+
+
+OUTPUT:
+
+<img width="1915" height="771" alt="Image" src="https://github.com/user-attachments/assets/b5cc60ae-6a8f-4f64-b4eb-934b399eb709" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/01bae8f4-e52b-4f76-8569-7742c4af333c" />
